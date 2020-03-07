@@ -1,3 +1,4 @@
 js/node_modules/*
 go/secret/*
 js/secret/secret.js
+js/public/app.js
